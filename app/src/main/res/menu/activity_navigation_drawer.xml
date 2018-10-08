@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_about"
+
+            android:title="About" />
+        <item
+            android:id="@+id/nav_webdesign"
+
+            android:title="Web Design" />
+        <item
+            android:id="@+id/nav_digital"
+
+            android:title="Digital Marketing" />
+        <item
+            android:id="@+id/nav_interior"
+
+            android:title="Interior Design" />
+        <item
+            android:id="@+id/nav_mobileapps"
+
+            android:title="Mobile Apps" />
+        <item
+            android:id="@+id/nav_3d"
+
+            android:title="3D-Printing" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Contact Us" />
+
+        </menu>
+    </item>
+
+</menu>

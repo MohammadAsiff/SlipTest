@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SlipTest</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="About">Marolix the pioneer in providing the interior designing services all over the Hyderabad. Our interior designing works are outstanding and offer the magnificent view. Our expert designers are perfectly trained well acquainted with all sorts of modern interior designing.
+        They have innovative ideas, and they always try to provide unique Interior Decoration for your home interior.</string>
+    <string name="Webdesign">We aim to build a long-term cooperation with our customers on mutually beneficial terms and find optimal solutions in any situation.
+        Contact us and we will do our best to present your business on the Internet!</string>
+    <string name="digital">Marolix have over five years of expertise in our services and we’ve got served purchaser from distinct companies find it irresistible, hospitality, production, education, and retail. we’re updating our self inside the subject of digital advertising and marketing along side its phrases. so it facilitates us to enhance consumer’s interactions and brings greater precious audiences.
+        so our predominant goal is to make ideal clients on your enterprise.</string>
+    <string name="interior">Marolix the pioneer in providing the interior designing services all over the Hyderabad. Our interior designing works are outstanding and offer the magnificent view.
+        Our expert designers are perfectly trained well acquainted with all sorts of modern interior designing.
+        They have innovative ideas, and they always try to provide unique Interior Decoration for your home interior.</string>
+    <string name="Mobile">Marolix Technology Solutions is one of the best enterprise mobile application development company in India. Our expertise lies in building  Android and iOS applications supported by a strong cloud based backend infrastructure.
+Mobile apps have become a need rather than a luxury. We are technology leaders in the space of mobile applications development.  We are expertized in the development of mobile apps for B2B, B2C , B2E business environment. The range of our multi-platform mobile apps services fit everyone, from large enterprises , government to small ,medium businesses.
+        We have developed numerous mobile apps for different sectors ranging from healthcare to entertainment.</string>
+    <string name="Printing">Marolix mechanical engineering solutions were started with the idea of providing cost effective designs and stay competitive in the market.
+We will provide support to clients starting from conceptual design stage to prototyping/product launch.
+        Our top priority is working towards creative innovations, timeline delivery.</string>
+</resources>
